@@ -10,6 +10,10 @@ cd Musicplayer
 ls
 python3 musicplayer.py
 ```
+#### Pendukung:
+```
+apt-get install mpv
+```
 #### Kontak:
 + Email d_q16x@outlook.co.id
 + WhatsApp +62 85775433901
