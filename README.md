@@ -13,7 +13,7 @@ ls
 python3 musicplayer.py
 ```
 #### Audio:
-Untuk memutar musik install **```mpv```**
+Untuk memutar musik install ```mpv```
 #### Kontak:
 + Email d_q16x@outlook.co.id
 + WhatsApp +62 85775433901
