@@ -1,5 +1,5 @@
 # Musicplayer:
-*Musicplayer adalah layanan streaming musik dan lemari musik daring yang dioperasikan oleh Stepbystep. Pengguna dapat mengunggah dan mendengarkan hingga 1trilon lagu tanpa biaya.*
+**```Musicplayer```** adalah layanan streaming musik dan lemari musik terminal yang dioperasikan oleh Stepbystep. Pengguna dapat mengunggah dan mendengarkan hingga 1 miliar lagu tanpa biaya.
 #### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
